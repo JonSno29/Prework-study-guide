@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-}
+   }
    
    header,
    footer {
@@ -9,27 +9,27 @@
     height: 120px;
     background-color: blue;
     color: white;
-}
+   }
    
    h1,
    h2 {
     text-align: center;
-}
+   }
    
-img {
+   img {
     display: block;
     height: 50px;
     width: 50px;
     margin-left: auto;
     margin-right: auto;
-}
+   }
    
-ul {
+   ul {
     padding-left: 40px;
     font-size: 20px;
-}
+   }
    
-p {
+   p {
     text-align: center;
     font-size: 30px;
-}
+   }
